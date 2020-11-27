@@ -2,7 +2,9 @@ body {
   font-size: 50px;
 }
 .logo {
+	margin: 0 auto;
 	color: green;
 	height: 100px;
 	width:  100px;
+	background-color: pink;
 }
